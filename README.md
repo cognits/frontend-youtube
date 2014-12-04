@@ -13,6 +13,7 @@ Deben cumplir con los siguientes elementos:
 ## Objetivo
 Este proyecto te ayudará a aprender sobre una librería moderna de Javascript llamada Knockout.JS.
 Lo más importante para aprender de este proyecto es el buen uso de Knockout. Al finalizar, responde las siguientes preguntas en el archivo llamado "respuestas.txt".
+
 1. Cómo funciona Knockout.JS?
 2. Cuales son las mayores diferencias entre Knockout y Jquery?
 3. Qué es Model View Controller (MVC)?
