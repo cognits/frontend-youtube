@@ -1,0 +1,5 @@
+1. Cómo funciona Knockout.JS?
+2. Cuales son las mayores diferencias entre Knockout y Jquery?
+3. Qué es Model View Controller (MVC)?
+4. Porqué es útil MVC y describe cómo lo usa Knockout?
+5. Qué fue algo que aprendiste y te sorprendió?
